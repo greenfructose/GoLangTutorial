@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/greenfructose/hello"
+	"github.com/greenfructose/golangtutorial/hello"
 )
 
 func main() {
-	hello()
+	hello.Hello()
 }
